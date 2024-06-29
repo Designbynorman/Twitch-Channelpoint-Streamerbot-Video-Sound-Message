@@ -13,7 +13,7 @@ Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird ein B
 
 [On Youtube](https://www.youtube.com/@DesignbyNorman)
 
-[On Youtube](https://youtu.be/ATDNNHsbxp4)
+[On Youtube]([https://youtu.be/ATDNNHsbxp4](https://www.youtube.com/watch?v=HdMd97M6huI))
 
 [Playlist on Youtube](https://www.youtube.com/playlist?list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM)
 
