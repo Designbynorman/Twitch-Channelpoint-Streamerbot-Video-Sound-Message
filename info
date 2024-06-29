@@ -1,7 +1,7 @@
 Erstelle eine separate Szene in OBS mit dem Blitz. Verwende 2x den Filter Move Source (ein und ausblenden) für die Szene! Nicht für die Quelle!
 Passe die Namen in OBS Scene Filter State an OBS Scene und den Filter an. Ebenfalls den Pfad auf Deiner Festplatte für die Sound Datei unter Play Sound.
 
-sbv1(https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/sbv1.png) - Screenshot Streamer.bot
+sbv1 - Screenshot Streamer.bot
 
 sbv2 - Screenshot OBS Set Scene Filter State. Hier die Scene und den Filter von OBS Studio anpassen.
 
