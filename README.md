@@ -1,5 +1,5 @@
 # Twitch-Channelpoint-Streamerbot-Video-Sound-Message
-Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird ein Bild-Datei mit Sound und einer Chat Nachricht ausgegeben.
+Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird eine Bild-Datei mit Sound und einer Chat Nachricht ausgegeben.
 
 [Information](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/info)
 
