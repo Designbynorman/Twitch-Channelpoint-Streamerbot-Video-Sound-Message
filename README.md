@@ -3,7 +3,9 @@ Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird eine 
 
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
-[Website](https://www.designbynorman.com/streamerbot/)
+[Website]([https://www.designbynorman.com/streamerbot/](https://www.designbynorman.com/streamer-bot-einrichten/))
+
+[Snippet](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/snippet%20channelpoint)
 
 ![OBS scene](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/assets/118851815/3e9d91b3-e53d-450d-9442-45ebd4aea74b)
 ![avod scene filter](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/assets/118851815/f25c6b6f-8aa4-4dc3-9980-ed9e97a3d0e3)
@@ -23,5 +25,3 @@ Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird eine 
 [Playlist on Youtube](https://www.youtube.com/playlist?list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM)
 
 [On X](https://x.com/Designbynorman)
-
-
