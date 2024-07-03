@@ -3,6 +3,8 @@ Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird eine 
 
 [Information](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/info)
 
+[[https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/OBS%20scene.png|alt=test]]
+
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
 [Website](https://www.designbynorman.com/streamerbot/)
