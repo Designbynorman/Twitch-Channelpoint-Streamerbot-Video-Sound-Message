@@ -9,6 +9,8 @@ Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird eine 
 
 [Discord, falls ihr Fragen habt!](https://discord.gg/Gdt94HaFbM)
 
+Erstelle eine separate Szene in OBS mit dem Blitz. Verwende 2x den Filter Move Source (ein und ausblenden) für die Szene! Nicht für die Quelle!
+Passe die Namen in OBS Scene Filter State an OBS Scene und den Filter an. Ebenfalls den Pfad auf Deiner Festplatte für die Sound Datei unter Play Sound.
 ![OBS scene](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/assets/118851815/3e9d91b3-e53d-450d-9442-45ebd4aea74b)
 ![avod scene filter](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/assets/118851815/f25c6b6f-8aa4-4dc3-9980-ed9e97a3d0e3)
 ![sbv1](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/assets/118851815/b73d579c-47da-4e81-8c03-a2550d777644)
