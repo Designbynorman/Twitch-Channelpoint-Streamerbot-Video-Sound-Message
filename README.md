@@ -16,3 +16,5 @@ Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird eine 
 [Playlist on Youtube](https://www.youtube.com/playlist?list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM)
 
 [On X](https://x.com/Designbynorman)
+
+![OBS scene](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/assets/118851815/3e9d91b3-e53d-450d-9442-45ebd4aea74b)
