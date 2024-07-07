@@ -30,9 +30,7 @@ Optionale Chat Benachrichtigung mit dem Namen vom Zuschauer. (Variable %user%)
 
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
 
-[On Youtube](https://www.youtube.com/@DesignbyNorman)
-
-[On Youtube](https://www.youtube.com/watch?v=HdMd97M6huI)
+[DesignbyNorman on Youtube](https://www.youtube.com/@DesignbyNorman)
 
 [Playlist on Youtube](https://www.youtube.com/playlist?list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM)
 
