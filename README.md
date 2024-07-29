@@ -31,6 +31,9 @@ Optionale Chat Benachrichtigung mit dem Namen vom Zuschauer. (Variable %user%)
 
 ![sbv4](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/assets/118851815/ad0af8a5-a725-41fd-bb12-52aea685a0b3)
 
+![Channelpoints](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/Channelpoints1.jpg) 
+
+
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
 
 [DesignbyNorman on Youtube](https://www.youtube.com/@DesignbyNorman)
