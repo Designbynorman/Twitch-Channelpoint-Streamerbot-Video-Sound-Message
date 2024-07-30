@@ -1,6 +1,10 @@
 # Twitch-Channelpoint-Streamerbot-Video-Sound-Message
 Snippet (Vorlage) zum erstellen eines Kanalpuktes mit Streamerbot. Es wird eine Bild-Datei mit Sound und einer Chat Nachricht ausgegeben.
 
+
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
+
+
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
